@@ -26,8 +26,8 @@ filetype indent on
 colorscheme sublimemonokai
 ```
 
-참고
-[vim 설정을 위한 .vimrc](https://blog.outsider.ne.kr/518)
+참고<br>
+[vim 설정을 위한 .vimrc](https://blog.outsider.ne.kr/518)<br>
 [.vimrc 설정 파일-1](https://opentutorials.org/course/730/4578)
 
 <hr>
