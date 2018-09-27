@@ -118,7 +118,7 @@ author:
       # url: "https://twitter.com/"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
-      url: "https://rockeron.github.io/"
+      url: "https://www.facebook.com/kyoungmook"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/rockeron"
@@ -284,5 +284,5 @@ defaults:
       author_profile: true
       read_time: true
       comments: # true
-      share: true
+      share: false
       related: true
